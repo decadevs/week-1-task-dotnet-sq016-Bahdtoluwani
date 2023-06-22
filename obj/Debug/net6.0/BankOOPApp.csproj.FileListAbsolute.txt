@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\BankOOPApp.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\BankOOPApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\BankOOPApp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\BankOOPApp.AssemblyInfo.cs
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\BankOOPApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BankOOPApp\bin\Debug\net6.0\BankOOPApp.exe
+C:\Users\USER\source\repos\BankOOPApp\bin\Debug\net6.0\BankOOPApp.deps.json
+C:\Users\USER\source\repos\BankOOPApp\bin\Debug\net6.0\BankOOPApp.runtimeconfig.json
+C:\Users\USER\source\repos\BankOOPApp\bin\Debug\net6.0\BankOOPApp.dll
+C:\Users\USER\source\repos\BankOOPApp\bin\Debug\net6.0\BankOOPApp.pdb
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\BankOOPApp.dll
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\refint\BankOOPApp.dll
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\BankOOPApp.pdb
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\BankOOPApp.genruntimeconfig.cache
+C:\Users\USER\source\repos\BankOOPApp\obj\Debug\net6.0\ref\BankOOPApp.dll
